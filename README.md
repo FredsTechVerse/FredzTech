@@ -4,12 +4,12 @@ Hi 👋 My name is Alfred Githinji
 FullStack Web Developer
 ------------------------
 
-I am a MERN Stack developer. I enjoy creating creative websites, portfolios and web applications tailored to suit your needs. #Codingforlife
+I am a fullstack web developer currently utilizing the MERN Stack technologies to develop dynamics websites, portfolios and web applications that are tailored to suit your needs.
 
 * 🌍  I'm based in Nyeri
 * ✉️  You can contact me at [alfredgithinji87@gmail.com](mailto:alfredgithinji87@gmail.com)
 * 🧠  I'm learning tailwindcss
-* 🤝  I'm open to collaborating on fullstack web applications
+* 🤝  I'm open to collaborating on MERN Stack web applications.
 
 ### Badges
 
