@@ -6,10 +6,10 @@ FullStack Web Developer
 
 I am a fullstack web developer currently utilizing the MERN Stack technologies to develop dynamics websites, portfolios and web applications that are tailored to suit your needs.
 
-* 🌍  I'm based in Nyeri
+* 🌍  I'm based in Nyeri,Kenya.
 * ✉️  You can contact me at [alfredgithinji87@gmail.com](mailto:alfredgithinji87@gmail.com)
-* 🧠  I'm learning tailwindcss
-* 🤝  I'm open to collaborating on MERN Stack web applications.
+* 🧠  I'm currently learning PHP
+* 🤝  I'm open to collaborating on interesting fullstack web applications build with the MERN Stack technologies.
 
 ### Badges
 
