@@ -9,7 +9,7 @@ I am a fullstack web developer currently utilizing the MERN Stack technologies t
 * 🌍  I'm based in Nyeri,Kenya.
 * ✉️  You can contact me at [alfredgithinji87@gmail.com](mailto:alfredgithinji87@gmail.com)
 * 🧠  I'm currently learning PHP
-* 🤝  I'm open to collaborating on interesting fullstack web applications build with the MERN Stack technologies.
+* 🤝  I'm open to collaborating on interesting fullstack web applications built with the MERN Stack.
 
 ### Badges
 
