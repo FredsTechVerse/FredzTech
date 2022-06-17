@@ -4,12 +4,12 @@ Hi 👋 My name is Alfred Githinji
 FullStack Web Developer
 ------------------------
 
-I am a fullstack web developer currently utilizing the MERN Stack technologies to develop dynamics websites, portfolios and web applications that are tailored to suit your needs.
+I am a fullstack web developer. I enjoy using the MERN Stack (MongoDB,Express,React,NodeJS)in developing things for the web including dynamics websites, portfolios and web applications tailored to suit different user needs.
 
 * 🌍  I'm based in Nyeri,Kenya.
 * ✉️  You can contact me at [alfredgithinji87@gmail.com](mailto:alfredgithinji87@gmail.com)
-* 🧠  I'm Currently learning Foundations of User Experience (UX) Design, Learning How to Learn
-* 🤝  I'm open to collaborating on interesting fullstack web applications built with the MERN Stack.
+* 🧠  I'm Currently learning Foundations of User Experience (UX) Design and Learning How to Learn
+* 🤝  I'm open to collaborating on interesting fullstack web applications built with the MERN Stack and other technologies.
 
 ### Badges
 
