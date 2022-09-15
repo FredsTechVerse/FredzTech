@@ -7,9 +7,9 @@ FullStack Web Developer
 I enjoy using the MERN Stack (MongoDB,Express,React,NodeJS)in developing things for the web including dynamics websites, portfolios and web applications tailored to suit different user needs.
 
 * 🌍  I'm based in Nyeri,Kenya.
+* 🧠  My Portfolio : https://alfredgithinjigichia.netlify.app/
 * ✉️  You can contact me at [alfredgithinji87@gmail.com](mailto:alfredgithinji87@gmail.com)
-* 🧠  Here is what i have been upto, Link to my portfolio : https://alfredgithinjigichia.netlify.app/
-* 🤝  I'm open to collaborating on interesting fullstack web applications built with the MERN Stack and other technologies.
+* 🤝  I'm open to collaborating in any web dev projects built with the MERN stack.
 
 ### Badges
 
