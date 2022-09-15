@@ -8,7 +8,7 @@ I enjoy using the MERN Stack (MongoDB,Express,React,NodeJS)in developing things 
 
 * 🌍  I'm based in Nyeri,Kenya.
 * ✉️  You can contact me at [alfredgithinji87@gmail.com](mailto:alfredgithinji87@gmail.com)
-* 🧠  I'm Currently learning Foundations of User Experience (UX) Design and Learning How to Learn
+* 🧠  Here is what i have been upto, Link to my portfolio : https://alfredgithinjigichia.netlify.app/
 * 🤝  I'm open to collaborating on interesting fullstack web applications built with the MERN Stack and other technologies.
 
 ### Badges
